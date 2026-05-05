@@ -5,7 +5,6 @@ Um portfólio moderno e responsivo desenvolvido com **Vue.js 3**, **Tailwind CSS
 ## ✨ Características
 
 - 🌍 **Bilíngue**: Suporte para Português e Inglês
-- 🌙 **Tema Claro/Escuro**: Tema responsivo com localStorage
 - 📱 **Totalmente Responsivo**: Design mobile-first
 - ⚡ **Performance Otimizada**: Build rápido com Vite
 - 🎨 **Design Moderno**: Tailwind CSS com componentes reutilizáveis
@@ -95,4 +94,4 @@ git push origin main
 
 ---
 
-**Made with ❤️ by Paulo Victor Armando**
+**Made by Paulo Victor Armando**
